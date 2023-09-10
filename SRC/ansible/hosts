@@ -1,0 +1,13 @@
+[nodes:children]
+manager
+agent
+
+[manager]
+158.160.57.36 ansible_user=ubuntu
+158.160.50.36 ansible_user=ubuntu
+62.84.124.20 ansible_user=ubuntu
+
+[agent]
+51.250.79.243 ansible_user=ubuntu
+84.201.172.173 ansible_user=ubuntu
+62.84.116.217 ansible_user=ubuntu
